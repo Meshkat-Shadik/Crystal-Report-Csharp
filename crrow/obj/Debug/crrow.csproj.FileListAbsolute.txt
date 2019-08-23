@@ -1,0 +1,11 @@
+I:\Programming\C#\crrow\crrow\bin\Debug\crrow.exe.config
+I:\Programming\C#\crrow\crrow\bin\Debug\crrow.exe
+I:\Programming\C#\crrow\crrow\bin\Debug\crrow.pdb
+I:\Programming\C#\crrow\crrow\bin\Debug\MySql.Data.dll
+I:\Programming\C#\crrow\crrow\obj\Debug\crrow.Properties.Resources.resources
+I:\Programming\C#\crrow\crrow\obj\Debug\crrow.csproj.GenerateResource.Cache
+I:\Programming\C#\crrow\crrow\obj\Debug\crrow.exe
+I:\Programming\C#\crrow\crrow\obj\Debug\crrow.pdb
+I:\Programming\C#\crrow\crrow\obj\Debug\crrow.frmprint.resources
+I:\Programming\C#\crrow\crrow\obj\Debug\crrow.StartShuru.resources
+I:\Programming\C#\crrow\crrow\obj\Debug\crrow.csprojResolveAssemblyReference.cache
